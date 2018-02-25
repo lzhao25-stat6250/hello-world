@@ -1,4 +1,4 @@
 # hello-world
 Hi everyone,
-I'm Lanqin Zhao, a student in CSU East Bay.
+I'm Lanqin Zhao, a master graduate in CSU East Bay.
 
